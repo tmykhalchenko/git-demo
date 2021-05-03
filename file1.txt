@@ -1,5 +1,9 @@
 text for second commit
 adding second commit
+<<<<<<< HEAD
 
 Student Mykhalchenko
 ________________________________
+=======
+adding third commit
+>>>>>>> eb7355bf3a1ee9d3f0f2bc420e9877899bd27da3
